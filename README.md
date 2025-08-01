@@ -7,6 +7,12 @@ This project, “Toolbox of a Data Scientist,” explores the Kaggle Machine Lea
 4. What machine learning tools and frameworks do they commonly use? 
 We use `pandas` and `sqlite3` to construct the database, and visualize trends with `matplotlib`.  
 
+## 📦 Download Dataset
+
+Due to GitHub file size limitations, the dataset is hosted externally.
+
+👉 [Click here to download the `data/` folder (Google Drive)](https://drive.google.com/file/d/1_Kh8LCyPAidmX_VoYZp5RA537ubEPh5V/view?usp=sharing)
+
 ## ⚙️ How to Reproduce  
 - Install [Miniconda](https://docs.anaconda.com/miniconda)  
 - Create the environment from `environment.yml`:  
